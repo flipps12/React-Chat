@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.max-h-80vh {
+    max-height: 78vh;
+}
