@@ -11,8 +11,9 @@
 >#### Uso:
 > 
 > Ejecutar en consola:
-> > npm i
-> > npm run dev
+> > $ npm i
+>
+> > $ npm run dev
 >
 
 
